@@ -16,7 +16,17 @@ BuildMate is a modern web platform aimed at simplifying the process of home cons
   - Connect with potential clients.
   - List their services and pricing.
 
-### Figma Link
-You can view the complete design on Figma by clicking the link below:
-[BuildMate Figma Design](https://www.figma.com/design/i4wfloPyppcAjDGdKQtlPe/masterPiece?node-id=0-1&t=L3NMg4ETOBQwxPfa-1)
+### Figma Design
+<img width="777" height="666" alt="image" src="https://github.com/user-attachments/assets/4ec46b36-b748-4969-9706-4172d1bb40cb" />
+
+
+## Find Pro
+
+<img width="1800" height="754" alt="image" src="https://github.com/user-attachments/assets/5b4e887d-4683-4710-bf5b-acbc2e3da7cf" />
+
+## Find Idea
+
+<img width="1837" height="905" alt="image" src="https://github.com/user-attachments/assets/b1522177-185e-4b1d-bb17-89b7ec06cd95" />
+
+
 
