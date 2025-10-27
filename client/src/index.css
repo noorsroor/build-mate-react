@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-
-html[lang="ar"] {
-    direction: rtl;
-  }
-  html[lang="en"] {
-    direction: ltr;
-  }
